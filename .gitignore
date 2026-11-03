@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+*.pem
+.tox/
+.venv/
+env-*/
+__pycache__/
+*.egg-info/
+build/
+.pytest_cache/
+.mypy_cache/
+package-src/model/trained/*.pkl
